@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237000223244",
+    "firebase_url": "https://m-course-work-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "m-course-work",
+    "storage_bucket": "m-course-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237000223244:android:b13817e02c3353059c5c29",
+        "android_client_info": {
+          "package_name": "ru.kokhirus.m_course_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237000223244-biv7do8atvidq2004mcr8et6sp0rprjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.kokhirus.m_course_work",
+            "certificate_hash": "9707c56c0cc9a3358fea65398d265f9d203b73fc"
+          }
+        },
+        {
+          "client_id": "237000223244-1e6rnbu25n6lh2mf1r5380fl8noagsho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdRhl0NCHk7MzfEI7cG09e0v337S0ipA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237000223244-1e6rnbu25n6lh2mf1r5380fl8noagsho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

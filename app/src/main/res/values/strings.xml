@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VPeripherals</string>
+    <string name="profile_nav_button">Profile</string>
+    <string name="news_nav_button">News</string>
+    <string name="favourites_nav_button">Favourites</string>
+    <string name="search_nav_button">Search</string>
+    <string name="default_web_client_id" translatable="false">237000223244-1e6rnbu25n6lh2mf1r5380fl8noagsho.apps.googleusercontent.com</string>
+</resources>
